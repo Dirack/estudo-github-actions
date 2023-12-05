@@ -1,2 +1,2 @@
 all:
-  @echo "Apenas um teste de exemplo!"
+	@echo "Apenas um teste de exemplo!"
