@@ -1,0 +1,12 @@
+Package: pacote
+Version: 0.1
+Architecture: all
+Priority: optional
+Essential: no
+Maintainer: Rodolfo A C Neves (Dirack) <https://dirack.github.io>
+Original-Maintainer: GPGEOF <https://github.com/gpgeof>
+Bugs: https://github.com/Dirack/Shellinclude/issues/new?assignees=Dirack&labels=bug&template=bug_report.md&title=%5BBUG%5D
+Homepage: https://github.com/Dirack/Shellinclude/wiki
+Depends: bash
+Description: estudo sobre github actions
+
